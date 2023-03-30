@@ -1,0 +1,6 @@
+:root {
+    --max-width-size: 1440px;
+    
+    --primary-medium: hsl(257, 40%, 49%);
+    --secudary-medium: hsl(300, 69%, 71%);
+}
